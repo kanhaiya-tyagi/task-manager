@@ -2,8 +2,6 @@
 
 A sleek and customizable **Task Manager** web app built with **React** that helps you stay productive with features like theme toggling, local data persistence, sound feedback, and intuitive task filters.
 
-![Screenshot](src/assets/upiQr.jpg)
-
 ---
 
 ## 🚀 Features
