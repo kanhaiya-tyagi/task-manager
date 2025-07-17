@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+.hoverShadow:hover{
+    box-shadow: 0 0 8px rgb(124, 124, 124);
+}
