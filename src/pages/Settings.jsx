@@ -1,4 +1,5 @@
 import React from 'react'
+import UPI from '../assets/upiQr.jpg'
 import ThemeToggle from '../components/ThemeToggle'
 import ThemeColorPicker from '../components/ThemeColorPicker'
 import { FaLinkedin, FaTwitter, FaInstagram, FaGlobe, FaGithub, FaEnvelope } from 'react-icons/fa';
@@ -53,7 +54,7 @@ const Settings = () => {
                     <p className="text-sm text-gray-500">If this app helped you, consider supporting me!</p>
 
                     <img
-                        src="/src/assets/upiQr.jpg"
+                        src= {UPI}
                         alt="UPI QR Code"
                         className="w-48 mx-auto rounded shadow mt-8"
                     />
